@@ -2,6 +2,8 @@
 */.ipynb_checkpoints/*
 .npy
 *.npy
+.h5
+*.h5
 .DS_Store
 *.ipynb_checkpoints
 *.pytest_cache
