@@ -1,0 +1,2 @@
+round_epochs,val_loss,val_acc,loss,acc,activation,optimizer,losses,hidden_layers,batch_size,epochs
+10,1.5738565997733964,0.34833795013850416,1.6478880248367742,0.3146801244501227,elu,Nadam,logcosh,1,40,10
